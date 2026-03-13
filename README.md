@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👨🏻‍💻 Roger Marllus Leal
 
-<!--
-**rogermarllus/rogermarllus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** (7º período) no IF Sudeste MG – Campus Manhuaçu e estagiário Fullstack na PDCase Informática Ltda. Busco aplicar e expandir meus conhecimentos construindo aplicações organizadas, eficazes e de qualidade.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogermarllus)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roger.mo.leal@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 
+## 🛠️ Tecnologias & Ferramentas
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,php,java,html,css,laravel,nodejs,mysql,mongodb,git,github)](https://skillicons.dev)
+ 
