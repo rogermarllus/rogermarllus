@@ -9,5 +9,4 @@ Estudante de Sistemas de Informação (7º período) no **IF Sudeste MG – Camp
  
 ## 🛠️ Tecnologias & Ferramentas
  
-[![My Skills](https://skillicons.dev/icons?i=js,php,java,html,css,laravel,nodejs,mysql,mongodb,git,github)](https://skillicons.dev)
- 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,php,laravel,java,postgres,mysql,mongodb,git,github)](https://skillicons.dev) 
