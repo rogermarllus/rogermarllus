@@ -11,4 +11,4 @@ Busco evoluir continuamente como desenvolvedor, aprofundando conhecimentos em en
  
 ## 🛠️ Tecnologias & Ferramentas
  
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,dotnet,postgres,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,cs,dotnet,java,js,nodejs,postgres,mysql,git,github,gitlab,figma)](https://skillicons.dev)
